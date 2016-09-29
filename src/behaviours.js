@@ -1,4 +1,4 @@
-import Core from 'css-modules-loader-core';
+import Core from '@cameron-martin/css-modules-loader-core';
 
 export const defaultPlugins = {
   local: [
